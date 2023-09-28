@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "email": "abc@gmail.com",
+      "note": "lorem pizza",
+      "category": "others",
+      "id": 1
+    },
+    {
+      "email": "xyz@email.com",
+      "note": "lorem burger",
+      "category": "female",
+      "id": 2
+    },
+    {
+      "email": "123g@email.com",
+      "note": "lorem cake",
+      "category": "male",
+      "id": 3
+    },
+    {
+      "email": "1@2.com",
+      "details": "klndwjhcbdkc",
+      "category": "other",
+      "id": 4
+    }
+  ]
+}
